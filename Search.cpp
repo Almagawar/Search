@@ -52,15 +52,15 @@ int main()
 	setlocale(LC_ALL, "rus");
 
 	string inpath;
-	cout << "¬ведите путь до директории поиска: ";
+	cout << "¬ведите путь до директории поиска: "; //Enter path to the search folder
 	cin >> inpath;
 
 	string outpath;
-	cout << "¬ведите путь до места создани€ файла с данными: ";
+	cout << "¬ведите путь до места создани€ файла с данными: "; //Enter path to the "data.txt" file
 	cin >> outpath;
 
 	string confpath;
-	cout << "¬ведите путь до файла \"conf.txt\": ";
+	cout << "¬ведите путь до файла \"conf.txt\": "; //Enter path to the "conf.txt" file
 	cin >> confpath;
 
 	string line;
