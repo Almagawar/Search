@@ -1,0 +1,9 @@
+.html|0
+.dll|0
+.pak|0
+.cfg|0
+.mp4|0
+.png|0
+.res|0
+.xml|0
+.gif|0
